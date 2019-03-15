@@ -1,0 +1,1 @@
+# A TypeScript starter for node environments 
